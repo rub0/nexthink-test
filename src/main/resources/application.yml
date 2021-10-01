@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: nexthinkTest
+    server:
+      port: 6969
